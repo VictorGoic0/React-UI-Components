@@ -1,0 +1,15 @@
+.display {
+  width: 100%;
+  color: white;
+  background-color: #222222;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 125px;
+  border: 1px solid grey;
+  border-top: none;
+}
+
+.display p {
+  padding-right: 15px;
+}

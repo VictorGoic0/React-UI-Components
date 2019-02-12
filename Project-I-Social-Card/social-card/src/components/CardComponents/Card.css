@@ -1,1 +1,29 @@
-/* All styles for your Card Components live here */
+.card-container {
+border-left: 1px solid #d4d2d2;
+border-right: 1px solid #d4d2d2;
+border-bottom: 1px solid #d4d2d2;
+width: 534px;
+margin: 20px 20px 20px 50px;
+border-radius: 6px;
+}
+
+.card-container img {
+  width: 532px;
+  border-radius: 6px 6px 0 0;
+}
+
+.card-container p {
+  padding-left: 16px;
+  padding-top: 10px;
+}
+
+.card-container h4 {
+  padding-left: 16px;
+  padding-top: 16px;
+}
+
+.card-container h6 {
+  padding-left: 16px;
+  padding-top: 10px;
+  padding-bottom: 14px;
+}

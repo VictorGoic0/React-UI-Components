@@ -1,0 +1,34 @@
+.number, .symbol {
+  height: 94px;
+  border: 1px solid grey;
+}
+
+.symbol {
+  width: 120px;
+  background-color: #9f051f;
+  color: white;
+  font-size: 7rem;
+}
+
+.number {
+  width: 110px;
+  background-color: white;
+  font-weight: bold;
+  font-size: 4.5rem;
+}
+
+.action {
+  width: 334px;
+  height: 94px;
+  border: 1px solid grey;
+  background-color: white;
+  font-size: 4.5rem;
+}
+
+.action.bold {
+  font-weight: bold;
+}
+
+.wider.number {
+  width: 112px;
+}
