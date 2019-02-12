@@ -64,15 +64,11 @@ body {
   font-size: 62.5%;
   /* 10px if the browser was 16px*/
   /* 1rem === 10px @ medium browser settings */
-  font-family: 'Poppins', sans-serif;
-}
-
-button {
-  font-size: 4rem;
+  font-family: sans-serif;
 }
 
 p {
-  font-size: 4rem;
+  font-size: 7rem;
 }
 
 .container {
